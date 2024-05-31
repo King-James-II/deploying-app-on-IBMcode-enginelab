@@ -1,9 +1,5 @@
 # Hands-on Lab - Deploying a Hello World Web Application on Code Engine
 
-![cognitiveclass.ai logo](https://example.com/cognitiveclass_logo.png)
-
-Estimated Time: 60 minutes
-
 Tasks Accomplished:
 
 - Learned how to deploy a Hello World web application from GitHub on Code Engine.
